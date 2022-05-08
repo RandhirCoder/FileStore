@@ -1,0 +1,7 @@
+Public Class Main{
+
+Public Static Void main(){
+  
+System.out.println("Hello World!");
+}
+}
